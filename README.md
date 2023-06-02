@@ -1,1 +1,1 @@
-# U-NET-Lung-Segmentation
+# PoC - U-NET Lung Segmentation
